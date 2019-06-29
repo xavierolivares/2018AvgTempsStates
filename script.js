@@ -1,4 +1,4 @@
-const data = require("./completed/ND");
+const data = require("./1990Temps/MI");
 
 const avg = thing => {
   let sum = 0;
